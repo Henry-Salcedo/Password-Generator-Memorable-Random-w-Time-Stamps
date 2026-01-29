@@ -31,4 +31,5 @@ Then later both given time-stamps upon generation, and then randomed into either
     1. Rathar than creating multiple function for the generators and then for the time-stamp parts, to incoroprate such things into one each.
     2. Another improvement is adjusting the random time-stamp for generating it 2 times rather than once (simple fix).
     3. Later down the line include the security function to supporth the strength and quality of the random generated passowords/what the passwords should advoid using.
-    
+    4. Make sure when doing such project to make sure to append both generators to there own '.txt' file for addtional uses and better
+    understanding on how to uses the file type/knowing how to guide the coding in the direction I choose.
