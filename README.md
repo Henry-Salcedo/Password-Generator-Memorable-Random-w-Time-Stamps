@@ -4,7 +4,15 @@ Then later both given time-stamps upon generation, and then randomed into either
 
 ## a) Purpose of the Program(s):
 
-    The purpose of this program was to create 2 password generators one of each memorable, and random, then generate time-stamps for when each password was generated, then generate (at random) between the 2 generations into 1000 passwords that are then batched saved. Also as a class assignment to better understand how the spcific packages (string, timne, and random) could have been used into such applications.
+    The purpose of this program was to create 2 password generators one of each memorable, and random, then generate time-stamps 
+    for when each password was generated, then generate (at random) between the 2 generations into 1000 passwords that are then 
+    batched saved. Also as a class assignment to better understand how the spcific packages (string, timne, and random) 
+    could have been used into such applications.
+    
+    The following modules that were used for the project only consisted of:
+    Random
+    Time
+    String
 
 ## b) Input:
 
